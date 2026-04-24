@@ -6,9 +6,6 @@ slprj/
 # MATLAB autosave copies moved during cleanup
 archive/the_work_autosave/
 
-# Large learned data (regenerate per docs in data/README.md)
-data/lambdas.mat
-
 # Python tooling (optional local PDF export)
 __pycache__/
 *.pyc
