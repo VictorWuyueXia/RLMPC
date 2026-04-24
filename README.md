@@ -16,3 +16,21 @@ On GitHub, open the file in the browser for inline preview, or use *View raw* fo
 | [`src/matlab/`](src/matlab/) | Core `.m` sources and `CANONICAL.md` deduplication notes |
 | [`src/live_scripts/`](src/live_scripts/) | `.mlx` drivers (`Launch.mlx`, visualization, tests) |
 | [`data/`](data/) | `track.mat`; `lambdas.mat` |
+
+## Key Figures
+
+Race Progress
+
+![Progress](docs/figures/Progress.png)
+
+Q-value From Last Lap Trajectory
+
+![Q-Learning](docs/figures/Q-Learning.png)
+
+Interpolation of Current Q-value
+
+![Cost Field](docs/figures/Interpolation.png)
+
+MPC Quadratic Cost Field
+
+![Cost Field](docs/figures/CostField.png)
